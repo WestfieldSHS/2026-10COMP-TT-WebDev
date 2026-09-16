@@ -24,7 +24,7 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: #ec0794;
+  background-color: #f306f3;
   display: flex;
 }
 
@@ -41,5 +41,7 @@ ul li a:hover {
  img{ 
   width: 10%;
   height: 10%;
+  display: block;
+  margin: auto;
  }
 
